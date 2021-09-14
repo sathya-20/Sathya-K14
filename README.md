@@ -34,7 +34,7 @@
 <a href="https://dev.to/sathyak14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sathyak14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sathya-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathya-k" height="30" width="40" /></a>
 <a href="https://medium.com/sathya14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sathya14" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sathya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sathya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCGFVrZe9GS0exGzmX9Va7iw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sathya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
